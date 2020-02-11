@@ -1,0 +1,35 @@
+h1{
+    font-family: Constantia;
+    color: purple;
+    background: black;
+    text-align:center;
+    font-size: 50px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+p{
+    font-family:Ink Free;
+    color: royalblue;
+    background: lavenderblush;
+    font-size:16px;
+    text-align:justified;
+
+}
+div{
+    height: 500px;
+    width: 800px;
+    background: brown;
+    background-size: cover;
+}
+ul{
+    font-family: Constantia;
+    color: peru ;
+    font-size: 30px;
+}
+ol{
+    font-family: Palatino Linotype;
+    color: lightcoral ;
+    font-size: 20px;
+}

@@ -1,0 +1,36 @@
+h1{
+    font-family: Constantia;
+    color: peru;
+    background: black;
+    text-align:center;
+    font-size: 50px;
+}
+p{
+    font-family: Ink Free;
+    color: royalblue;
+    background: lavenderblush;
+    font-size:30px;
+    /*text-align:center;*/
+
+}
+div{
+    height: 400px;
+    width: 1000px;
+    /*background: lightcoral;*/
+    background: url("image2.jpg");
+    background-size: cover;
+}
+div.one{
+    height: 400px;
+    width: 800px;
+    /*background: lightcoral;*/
+    background: url("image4.jpeg");
+    background-size: cover;
+}
+
+p.two{
+    background: lightsalmon;
+    color: royalblue;
+    font-family: MS Serif;
+    font-size:30px;
+}
